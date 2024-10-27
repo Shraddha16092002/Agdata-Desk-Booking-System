@@ -12,7 +12,7 @@ namespace AgdataDeskBooking
             bool app = true;
             while (app)
             {
-                Console.WriteLine("Welcome User! are you Admin or Employee? else type Exit \n");
+                Console.WriteLine("Welcome! are you Admin or user? else type Exit \n");
 
                 string userSelection = Console.ReadLine();
                 if (userSelection.ToLower() == "exit")
@@ -26,9 +26,9 @@ namespace AgdataDeskBooking
                     Admin.ChooseAdmin(seatsystem, seatobj);
 
                 }
-                else if (userSelection.ToLower() == "employee")
+                else if (userSelection.ToLower() == "user")
                 {
-                    Employee.ChooseEmployee(seatsystem, seatobj);
+                    User.ChooseEmployee(seatsystem, seatobj);
 
                 }
                 Console.ReadKey();

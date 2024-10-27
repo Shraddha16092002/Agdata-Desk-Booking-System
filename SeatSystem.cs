@@ -8,7 +8,7 @@ namespace AgdataDeskBooking
 
         public List<Seat> seatList = new List<Seat>();
         public List<Admin> adminList = new List<Admin>();
-        public List<Employee> employeeList = new List<Employee>();
+        public List<User> employeeList = new List<User>();
         public List<Booking> bookList = new List<Booking>();
         public bool AdminAlreadyExists(string id)
         {
@@ -24,7 +24,7 @@ namespace AgdataDeskBooking
         }
         public bool EmpAlreadyExists(string id)
         {
-            foreach (Employee emp in employeeList)
+            foreach (User emp in employeeList)
             {
                 if (emp.EmployeeId == id)
                 {

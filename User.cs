@@ -3,11 +3,11 @@ using System.Globalization;
 
 namespace AgdataDeskBooking
 {
-    public class Employee
+    public class User
     {
         public string EmployeeId { get; set; }
         public string EmployeeName { get; set; }
-        public Employee(string employeeId, string employeeName)
+        public User(string employeeId, string employeeName)
         {
             EmployeeId = employeeId;
             EmployeeName = employeeName;
@@ -21,7 +21,7 @@ namespace AgdataDeskBooking
             {
                 Console.WriteLine("Enter Employee Name");
                 employeeName = Console.ReadLine();
-                seatsystem.employeeList.Add(new Employee(employeeId, employeeName));
+                seatsystem.employeeList.Add(new User(employeeId, employeeName));
             }
             bool continueEmp = true;
             while (continueEmp)
