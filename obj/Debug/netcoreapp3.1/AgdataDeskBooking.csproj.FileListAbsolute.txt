@@ -1,0 +1,14 @@
+D:\Agdata\starting with C#\AgdataDeskBooking\obj\Debug\netcoreapp3.1\AgdataDeskBooking.csproj.AssemblyReference.cache
+D:\Agdata\starting with C#\AgdataDeskBooking\obj\Debug\netcoreapp3.1\AgdataDeskBooking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agdata\starting with C#\AgdataDeskBooking\obj\Debug\netcoreapp3.1\AgdataDeskBooking.AssemblyInfoInputs.cache
+D:\Agdata\starting with C#\AgdataDeskBooking\obj\Debug\netcoreapp3.1\AgdataDeskBooking.AssemblyInfo.cs
+D:\Agdata\starting with C#\AgdataDeskBooking\obj\Debug\netcoreapp3.1\AgdataDeskBooking.csproj.CoreCompileInputs.cache
+D:\Agdata\starting with C#\AgdataDeskBooking\bin\Debug\netcoreapp3.1\AgdataDeskBooking.exe
+D:\Agdata\starting with C#\AgdataDeskBooking\bin\Debug\netcoreapp3.1\AgdataDeskBooking.deps.json
+D:\Agdata\starting with C#\AgdataDeskBooking\bin\Debug\netcoreapp3.1\AgdataDeskBooking.runtimeconfig.json
+D:\Agdata\starting with C#\AgdataDeskBooking\bin\Debug\netcoreapp3.1\AgdataDeskBooking.runtimeconfig.dev.json
+D:\Agdata\starting with C#\AgdataDeskBooking\bin\Debug\netcoreapp3.1\AgdataDeskBooking.dll
+D:\Agdata\starting with C#\AgdataDeskBooking\bin\Debug\netcoreapp3.1\AgdataDeskBooking.pdb
+D:\Agdata\starting with C#\AgdataDeskBooking\obj\Debug\netcoreapp3.1\AgdataDeskBooking.dll
+D:\Agdata\starting with C#\AgdataDeskBooking\obj\Debug\netcoreapp3.1\AgdataDeskBooking.pdb
+D:\Agdata\starting with C#\AgdataDeskBooking\obj\Debug\netcoreapp3.1\AgdataDeskBooking.genruntimeconfig.cache
